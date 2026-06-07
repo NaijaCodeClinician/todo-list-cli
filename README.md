@@ -49,7 +49,7 @@ Future improvements (when I learn more):
 · Set deadlines or priorities
 · Add a graphical interface with Flask (Chapter 15)
 
-💬 Feedback Welcome
+## 💬 Feedback Welcome
 
 I’m still learning, so any suggestions, code reviews, or ideas are highly appreciated.
 Feel free to open an issue or contact me via GitHub.
@@ -57,6 +57,7 @@ Feel free to open an issue or contact me via GitHub.
 ---
 
 Author:``` NaijaCodeClinician```
+
 License: MIT
 
 ---
